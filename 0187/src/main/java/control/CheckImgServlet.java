@@ -57,6 +57,7 @@ public class CheckImgServlet extends HttpServlet {
 		// 定义一个StringBuffer
 		StringBuffer buffer = new StringBuffer();
 		// 定义x坐标
+		// 定义x坐标
 		int x = 10;
 		for (int i = 0; i < 4; i++) {
 			// 随机颜色
